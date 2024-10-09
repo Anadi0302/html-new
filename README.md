@@ -1,6 +1,4 @@
-For your restaurant site, a good README file should include key information to help users understand the project and contribute if necessary. Here's a template you can follow:
 
----
 
 # Restaurant Website
 
